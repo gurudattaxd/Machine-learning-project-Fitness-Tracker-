@@ -7,7 +7,6 @@
 #                                                            #
 ##############################################################
 
-# Updated by Dave Ebbelaar on 22-12-2022
 
 import numpy as np
 import scipy.stats as stats
