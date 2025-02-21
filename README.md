@@ -75,8 +75,10 @@ Based on these findings, **Random Forest and Neural Networks were the top conten
 
 ---
 ✅ **Author:** Gurudatta Bidkar  
+
 📧 **Contact:** gurudattaxd@gmail.com
-🔗 **GitHub Repository:** [Repo Link]
+
+🔗 **GitHub Repository:** https://github.com/gurudattaxd/Machine-learning-project-Fitness-Tracker-
 
 
 
