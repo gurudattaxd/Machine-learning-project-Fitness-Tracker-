@@ -33,7 +33,8 @@ This machine learning project is designed to predict and analyze fitness levels 
 ## Model Performance Analysis
 The project evaluates five different machine learning models using various feature sets to determine the best fitness predictor. Below is a summary of accuracy results:
 
-![Model Accuracy Comparison](WhatsApp%20Image%202025-02-21%20at%2020.11.03_32d6b1ce.jpg)
+![image](https://github.com/user-attachments/assets/91b5a156-196e-432e-a12f-e16df4099791)
+
 
 ### **Observations:**
 - Random Forest (RF) and Neural Networks (NN) achieved the highest accuracy.
@@ -60,7 +61,7 @@ Based on these findings, **Random Forest and Neural Networks were the top conten
 
 
 
-## 🔥 Results & Conclusion
+## Results & Conclusion
 - The **best model (Random Forest)** achieved an accuracy of **97.5204%**, making it highly effective for fitness tracking.
 - Feature selection played a significant role in improving model accuracy.
 - Future improvements could include real-time fitness tracking integration with IoT devices.
